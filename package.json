@@ -1,6 +1,6 @@
 {
   "name": "fastspring-tell-me-how-many-subscriptions-i-got",
-  "description": "Fixing Fastspring’s inability to answer the most basic question",
+  "description": "Fixing Fastspringâs inability to answer the most basic question",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,10 +15,7 @@
     "request": "^2.65.0",
     "xml2json": "^0.9.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gr2m/fastspring-tell-me-how-many-subscriptions-i-got.git"
-  },
+  "repository": "github:gr2m/fastspring-tell-me-how-many-subscriptions-i-got",
   "devDependencies": {
     "semantic-release": "^4.3.5"
   }
